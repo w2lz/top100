@@ -1,6 +1,6 @@
 ## LeetCode 热题 100
 
-- [1. 两数之和](./src/TwoSum.java)
+- [1. 两数之和](./src/TwoSum.java) ✅
 - [49. 字母异位词分组](./src/GroupAnagrams.java)
 - [128. 最长连续序列](./src/LongestConsecutive.java)
 - [283. 移动零](./src/MoveZeroes.java)
