@@ -3,9 +3,9 @@
 - [1. 两数之和](./src/TwoSum.java) ✅
 - [49. 字母异位词分组](./src/GroupAnagrams.java) ✅
 - [128. 最长连续序列](./src/LongestConsecutive.java) ✅
-- [283. 移动零](./src/MoveZeroes.java)
-- [11. 盛最多水的容器](./src/MaxArea.java)
-- [15. 三数之和](./src/ThreeSum.java)
+- [283. 移动零](./src/MoveZeroes.java) ✅
+- [11. 盛最多水的容器](./src/MaxArea.java) ✅
+- [15. 三数之和](./src/ThreeSum.java) ✅
 - [42. 接雨水](./src/Trap.java)
 - [3. 无重复字符的最长子串](./src/LengthOfLongestSubstring.java)
 - [438. 找到字符串中所有字母异位词](./src/FindAnagrams.java)
