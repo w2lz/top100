@@ -6,8 +6,8 @@
 - [283. 移动零](./src/MoveZeroes.java) ✅
 - [11. 盛最多水的容器](./src/MaxArea.java) ✅
 - [15. 三数之和](./src/ThreeSum.java) ✅
-- [42. 接雨水](./src/Trap.java)
-- [3. 无重复字符的最长子串](./src/LengthOfLongestSubstring.java)
+- [42. 接雨水](./src/Trap.java) ✅
+- [3. 无重复字符的最长子串](./src/LengthOfLongestSubstring.java) ✅
 - [438. 找到字符串中所有字母异位词](./src/FindAnagrams.java)
 - [560. 和为 K 的子数组](./src/SubarraySum.java)
 - [239. 滑动窗口最大值](./src/MaxSlidingWindow.java)

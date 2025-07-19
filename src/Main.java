@@ -3,7 +3,8 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
 //        String s = "pwwkew";
-//        System.out.println(new LengthOfLongestSubstring().lengthOfLongestSubstring(s));
+//        System.out.println(new LengthOfLongestSubstring().lengthOfLongestSubstring2N(s));
+//        System.out.println(new LengthOfLongestSubstring().lengthOfLongestSubstring1N(s));
 //        int[] nums = new int[]{2,7,11,15};
 //        System.out.println(Arrays.toString(new TwoSum().twoSumForce(nums, 9)));
 //        System.out.println(Arrays.toString(new TwoSum().twoSumHashMap(nums, 9)));
@@ -17,8 +18,15 @@ public class Main {
 //        new MoveZeroes().moveZeroesSwap(nums);
 //        int[] nums = new int[]{1,8,6,2,5,4,8,3,7};
 //        System.out.println(new MaxArea().maxArea(nums));
-        int[] nums = new int[]{-1,0,1,2,-1,-4};
-        System.out.println(new ThreeSum().threeSumOn2(nums));
-        System.out.println(new ThreeSum().threeSumOn3(nums));
+//        int[] nums = new int[]{-1,0,1,2,-1,-4};
+//        System.out.println(new ThreeSum().threeSumOn2(nums));
+//        System.out.println(new ThreeSum().threeSumOn3(nums));
+//        int[] height = new int[]{0,1,0,2,1,0,1,3,2,1,2,1};
+//        System.out.println(new Trap().waterCanBeTrap(height));
+//        System.out.println(new Trap().waterCanBeTrapO1(height));
+        String s = "cbaebabacd";
+        String p = "abc";
+        System.out.println(new FindAnagrams().findAnagrams(s, p));
+        System.out.println(new FindAnagrams().findAnagramsOn(s, p));
     }
 }
