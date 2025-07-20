@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Set;
 
 public class Main {
     public static void main(String[] args) {
@@ -24,9 +25,23 @@ public class Main {
 //        int[] height = new int[]{0,1,0,2,1,0,1,3,2,1,2,1};
 //        System.out.println(new Trap().waterCanBeTrap(height));
 //        System.out.println(new Trap().waterCanBeTrapO1(height));
-        String s = "cbaebabacd";
-        String p = "abc";
-        System.out.println(new FindAnagrams().findAnagrams(s, p));
-        System.out.println(new FindAnagrams().findAnagramsOn(s, p));
+//        String s = "cbaebabacd";
+//        String p = "abc";
+//        System.out.println(new FindAnagrams().findAnagrams(s, p));
+//        System.out.println(new FindAnagrams().findAnagramsOn(s, p));
+
+//        int[] nums = new int[]{1,1,1};
+//        System.out.println(new SubarraySum().subarraySumBruteForce(nums, 2));
+//        System.out.println(new SubarraySum().subarraySumPrefixSum(nums, 2));
+
+//        String s = "ADOBECODEBANC", t = "ABC";
+//        System.out.println(new MaxSlidingWindow().minWindow(s, t));
+
+//        int[] nums = new int[]{-2,1,-3,4,-1,2,1,-5,4};
+//        System.out.println(new MaxSubArray().maxSubArray(nums));
+
+        int[] nums = new int[]{3,2,1,5,6,4};
+        System.out.println(new FindKthLargest().findKthLargestMinHeap(nums, 2));
+        System.out.println(new FindKthLargest().findKthLargestQuickSelect(nums, 2));
     }
 }

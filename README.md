@@ -8,11 +8,11 @@
 - [15. 三数之和](./src/ThreeSum.java) ✅
 - [42. 接雨水](./src/Trap.java) ✅
 - [3. 无重复字符的最长子串](./src/LengthOfLongestSubstring.java) ✅
-- [438. 找到字符串中所有字母异位词](./src/FindAnagrams.java)
-- [560. 和为 K 的子数组](./src/SubarraySum.java)
+- [438. 找到字符串中所有字母异位词](./src/FindAnagrams.java) ✅
+- [560. 和为 K 的子数组](./src/SubarraySum.java) ✅
 - [239. 滑动窗口最大值](./src/MaxSlidingWindow.java)
-- [76. 最小覆盖子串](./src/MinWindow.java)
-- [53. 最大子数组和](./src/MaxSubArray.java)
+- [76. 最小覆盖子串](./src/MinWindow.java) ✅
+- [53. 最大子数组和](./src/MaxSubArray.java) ✅
 - [56. 合并区间](./src/Merge.java)
 - [189. 轮转数组](./src/Rotate.java)
 - [238. 除自身以外数组的乘积](./src/ProductExceptSelf.java)
@@ -73,7 +73,7 @@
 - [394. 字符串解码](./src/DecodeString.java)
 - [739. 每日温度](./src/DailyTemperatures.java)
 - [84. 柱状图中最大的矩形](./src/LargestRectangleArea.java)
-- [215. 数组中的第K个最大元素](./src/FindKthLargest.java)
+- [215. 数组中的第K个最大元素](./src/FindKthLargest.java) ✅
 - [347. 前 K 个高频元素](./src/TopKFrequent.java)
 - [295. 数据流的中位数](./src/MedianFinder.java)
 - [121. 买卖股票的最佳时机](./src/MaxProfit.java)
